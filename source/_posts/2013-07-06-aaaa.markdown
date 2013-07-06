@@ -1,0 +1,8 @@
+---
+layout: post
+title: "aaa"
+date: 2013-07-06
+comments: true
+categories: 
+---
+<p>aaaaadfdfdfdfdf</p>
